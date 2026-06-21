@@ -404,10 +404,9 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
-    SOURCE_TXT ="""<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : 👇 </b>
+    SOURCE_TXT ="""<b> ꜰᴏʀ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 👇 </b>
 
-<b>This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Code Is Strictly Prohibited.\n
-ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com> Dᴜʙʙᴇᴅ Mᴏᴠɪᴇz 77</a></b>\n """
+<b>ʜᴇʏ ʏᴏᴜ ᴡᴀɴᴛ ʟɪᴋᴇ ᴛʜɪꜱ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪꜱ ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ᴛᴏ ɢᴇᴛ ʟɪᴋᴇ ᴛʜɪꜱ ʙᴏᴛ ◉› :<a href=https://t.me/DM_77_help_centre_bot> Dᴜʙʙᴇᴅ Mᴏᴠɪᴇz 77</a></b>\n """
 
     SETTING_TXT = """    
 <u>ꜱᴇᴛᴛɪɴɢꜱ</u> :
